@@ -1,5 +1,4 @@
-# Sprocket-Driven-RFM-Segmentation-Framework--KPMG-Standards
-# Customer Segmentation & Dashboard – KPMG Virtual Internship (Fluxxion)
+# Strategic Customer Profiling: Pivot Analysis & Python Modeling - KPMG Virtual Internship (Fluxxion)
 
 This project was completed as part of the KPMG Virtual Internship hosted by Fluxxion, where we were tasked with analyzing a new customer list and presenting our insights in a client-ready dashboard.
 
@@ -30,4 +29,12 @@ The goal was to help Sprocket Central Pty Ltd identify high-value customers from
 - Recommended the top customer segment based on lifetime value and purchasing behavior
 - Presented insights in a client-ready dashboard to support data-driven marketing decisions
 
-![Badge/Certificate](path/to/image.png)  <!-- Replace with actual image path or URL -->
+## Badge / Certificate
+🔗 [View LinkedIn Recommendation](https://www.linkedin.com/in/sajeela-noor-82b510256/overlay/experience/2687318675/multiple-media-viewer/?profileId=ACoAAD8UcaMBclOSgLALZ_OUKuOjz9Wc4dep9Rw&treasuryMediaId=1753205134889)
+
+📜 [KPMG Virtual Internship Certificate](https://www.linkedin.com/in/sajeela-noor-82b510256/overlay/experience/2687318675/multiple-media-viewer/?profileId=ACoAAD8UcaMBclOSgLALZ_OUKuOjz9Wc4dep9Rw&treasuryMediaId=1753205134888)
+
+## 📬 Contact
+
+✉️ **Email:** [i.sajeela.noor@gmail.com](mailto:i.sajeela.noor@gmail.com)  
+💼 **LinkedIn:** [Sajeela Noor](https://www.linkedin.com/in/sajeela-noor-82b510256)  
